@@ -6,7 +6,7 @@ This is a sample application demonstrating the Xively platform.
 
 The simplest and recommended method of installation is through Heroku. Simply click the button below.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/xively/simulator/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/herokumx/demo-iot-simulator)
 
 ### Local Installation
 
